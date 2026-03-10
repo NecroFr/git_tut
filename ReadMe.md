@@ -19,3 +19,5 @@ git rm --cached file_address
 git rm file_address
 
 git push -u origin main
+git push origin main
+git push
