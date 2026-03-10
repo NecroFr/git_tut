@@ -15,8 +15,7 @@ git commit -a -m "msg"  //skip staging area
 git diff
 git diff --staged
 
-git rm --cached creds.txt
-
-Remove - git rm file_address
+git rm --cached file_address
+git rm file_address
 
 git push -u origin main
