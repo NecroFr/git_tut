@@ -45,3 +45,4 @@ git log --pretty=oneline<br>
 git pull origin main
 
 git merge branchname<br>
+git rebase branchname<br>
