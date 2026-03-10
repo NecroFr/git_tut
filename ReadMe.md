@@ -1,23 +1,23 @@
-git config --global user.name "Necro"
-git config --global user.email "email"
-git config --global list
+git config --global user.name "Necro"<br>
+git config --global user.email "email"<br>
+git config --global list<br>
 
-git init
-git init -b main
+git init<br>
+git init -b main<br>
 
-git add filename
-git add .
+git add filename<br>
+git add .<br>
 
-git status
-git commit -m "msg"
-git commit -a -m "msg"  //skip staging area
+git status<br>
+git commit -m "msg"<br>
+git commit -a -m "msg"  //skip staging area<br>
 
-git diff
-git diff --staged
+git diff<br>
+git diff --staged<br>
 
-git rm --cached file_address
-git rm file_address
+git rm --cached file_address<br>
+git rm file_address<br>
 
-git push -u origin main
-git push origin main
-git push
+git push -u origin main<br>
+git push origin main<br>
+git push<br>
