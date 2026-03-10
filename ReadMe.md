@@ -41,3 +41,7 @@ git show v1.0 (enter,space,q)<br>
 git --no-pager show v1.0<br>
 
 git log --pretty=oneline<br>
+
+git pull origin main
+
+git merge branchname<br>
