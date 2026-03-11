@@ -46,3 +46,10 @@ git pull origin main
 
 git merge branchname<br>
 git rebase branchname<br>
+
+git checkout commit_id<br>
+git checkout -b branchname<br>
+
+git stash
+git stash list
+git stash apply
